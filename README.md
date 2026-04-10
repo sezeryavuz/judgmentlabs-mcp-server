@@ -49,7 +49,7 @@ A Model Context Protocol (MCP) server that provides seamless integration with th
 The easiest way to install this MCP server is through Claude Desktop's DXT extension system:
 
 1. **Download the Extension**: 
-   - Get the latest `judgmentlabs-mcp-server.dxt` file from the [releases page](https://github.com/suysoftware/judgmentlabs-mcp-server/releases)
+   - Get the latest `judgmentlabs-mcp-server.dxt` file from the [releases page](https://github.com/sezeryavuz/judgmentlabs-mcp-server/releases)
    - No Python installation required!
 
 2. **Install in Claude Desktop**:
